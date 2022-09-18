@@ -1,9 +1,11 @@
 # OWNly Project - hack the mountain hackathon
-What are you doing with your digital an social footprint? How much has blockchain benefitted you as you go along on your normal online social engagements? How about monetizing your digital footprints and other of your intellectual properties in the digital space?
-The OWNly project is an own and share NFT Copyright Platform. You can literally put a price on almost anything-U in the digital space. We categorise the digital space into two: the Social-U and the Non-Social-U. The Social-U comprise of post from all social media platforms like Twitter, Facebook, Instagram, TikTok etc. The Non-Social-U comprise of books, biography, video tutorials, whistleblower's account, blog, news, declassified and classified secrets etc. These digital items can be minted, shared and sold or even rented since they are intellectual digital footprints.
+- What are you doing with your digital an social footprint? How much has blockchain benefitted you as you go along on your normal online social engagements? How about monetizing your digital footprints and other of your intellectual properties in the digital space?
+- The OWNly project is an own and share NFT Copyright Platform. You can literally put a price on almost anything-U in the digital space. We categorise the digital space into two: the Social-U and the Non-Social-U. The Social-U comprise of post from all social media platforms like Twitter, Facebook, Instagram, TikTok etc. The Non-Social-U comprise of books, biography, video tutorials, whistleblower's account, blog, news, declassified and classified secrets etc. These digital items can be minted, shared and sold or even rented since they are intellectual digital footprints.
+- The MVP for this HTM hackathon is the Social-U of Twitter NFT. Tweet owners can deploy their tweets and allow the general public, followers alike to mint their tweets. The usage of these NFTs are very important. We have two variants:
+  - The Transferrable & the Non-transferrable. The transferrable are like the normal NFTs while the non-transferrable are specially designed for fundraising purposes. The NFT only serves as a receipt for participation in a fundraising that the deployer might have organized.
 
 ## Table of content
-- [OWNly Twitter - hack the mountain](#ownly-twitter---hack-the-mountain)
+- [OWNly Project - hack the mountain](#ownly-project---hack-the-mountain)
   - [Table of content](#table-of-content)
   - [Ideation](#ideation)
   - [UI](#ui)
