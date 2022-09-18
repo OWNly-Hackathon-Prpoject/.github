@@ -30,7 +30,7 @@ The OWNly project is an own and share NFT Copyright Platform. You can literally 
 
 - Other Products highlighting.
 
-<img src=./images/ui-ux/Product.png alt="drawing" width="400" height="1000"/>
+<img src=./images/ui-ux/Product.png alt="drawing" width="600" height="1000"/>
 
 ###
 
@@ -38,15 +38,15 @@ The OWNly project is an own and share NFT Copyright Platform. You can literally 
 - The frontend implementation of the UI has not been perfected. The work done shows minimal interaction with backend-smart contracts.
 
 - LandingPage
-<img src=./images/ui-ux/frontend1.png alt="drawing" width="720" height="500"/>
+<img src=./images/ui-ux/frontend1.png alt="drawing" width="720" height="450"/>
 
 - App page
 
-<img src=./images/ui-ux/DeployNFT.png alt="drawing" width="720" height="500"/>
+<img src=./images/ui-ux/AppPage.png alt="drawing" width="600" height="500"/>
 
 - App page test
 
-<img src=./images/ui-ux/DeployNFT.png alt="drawing" width="1200" height="600"/>
+<img src=./images/ui-ux/AppPageTest.png alt="drawing" width="1000" height="600"/>
 
 ###
 
