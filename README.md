@@ -1,4 +1,4 @@
-# OWNly Twitter - hack the mountain
+# OWNly Project - hack the mountain hackathon
 Allows to support content creators from twitter to interact with their followers and have additional support by mintable tweets.
 
 ## Table of content
@@ -23,7 +23,7 @@ Allows to support content creators from twitter to interact with their followers
 ## Contracts
 
 ### Overview
-Contract allows to mint ERC721 NFT with metadata from `NFT.storage` API. Content creator can easily deploy their valuable tweets with customizable fees and supply. Followers in order to support the creator can mint the NFT paying some fee (established by content creator). Users can use their personal vault for paying for transactions without any signing of transaction.
+Contract allows to mint ERC721 NFT with metadata from `NFT.storage` API. Content creator can easily deploy their valuable tweets with customizable fees and supply. Followers in order to support the creator can mint the NFT paying some fee (established by content creator). Users can use their personal balance in vault for paying for transactions without any signing of transaction. This abstraction allows for users to only send in some bulk amount to vault once in a while to prevent having to always sign transaction using a provider.
 
 ### Tests
 The [integration test](https://github.com/OWNly-Hackathon-Prpoject/contracts/tree/main/test/integration) imitates well, how the general flow looks like:
