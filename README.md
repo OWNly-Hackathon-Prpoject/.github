@@ -4,6 +4,7 @@ Allows to support content creators from twitter to interact with their followers
 ## Table of content
 - [OWNly Twitter - hack the mountain](#ownly-twitter---hack-the-mountain)
   - [Table of content](#table-of-content)
+  - [Ideation](#ideation)
   - [UI](#ui)
   - [Frontend](#frontend)
   - [Contracts](#contracts)
@@ -11,6 +12,8 @@ Allows to support content creators from twitter to interact with their followers
     - [Tests](#tests)
     - [Deployed Contract](#deployed-contract)
     - [Deployed NFTs](#deployed-nfts)
+
+## Ideation
 
 ## UI
 
