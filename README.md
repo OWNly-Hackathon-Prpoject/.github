@@ -1,6 +1,11 @@
 # OWNly Project - hack the mountain hackathon
 The OWNly project is an own and share NFT Copyright Platform. You can literally put a price on almost anything-U in the digital space.
 
+## Project Repos:
+### [UI/UX](https://github.com/OWNly-Hackathon-Prpoject/Figma-UI-UX)
+### [Smart Contract](https://github.com/OWNly-Hackathon-Prpoject/contracts)
+### [Frontend](https://github.com/OWNly-Hackathon-Prpoject/frontend)
+
 ## Table of content
 - [OWNly Project - hack the mountain](#ownly-project---hack-the-mountain)
   - [Table of content](#table-of-content)
