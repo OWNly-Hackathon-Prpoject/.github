@@ -37,7 +37,7 @@ The OWNly project is an own and share NFT Copyright Platform. You can literally 
 Contract allows to mint ERC721 NFT with metadata from `NFT.storage` API. Content creator can easily deploy their valuable tweets with customizable fees and supply. Followers in order to support the creator can mint the NFT paying some fee (established by content creator). Users can use their personal balance in vault for paying for transactions without any signing of transaction. This abstraction allows for users to only send in some bulk amount to vault once in a while to prevent having to always sign transaction using a provider.
 
 ### Tests
-The [integration test](https://github.com/OWNly-Hackathon-Prpoject/contracts/tree/main/test/integration) imitates well, how the general flow looks like:
+The [integration test](https://github.com/OWNly-Hackathon-Prpoject/contracts/blob/main/test/integration/MintingNfts.test.js) imitates well, how the general flow looks like:
 1. Contract owner can set some deploy fee
 2. Tweet with certain ID is loaded to the website - this case ID 1844 is assumed
 3. Content creator deploys his tweet with some certain parameters - pays minor fee from his vault or inludes fee in transaction.
