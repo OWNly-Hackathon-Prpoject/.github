@@ -24,7 +24,8 @@ The OWNly project is an own and share NFT Copyright Platform. You can literally 
 - The `Figma` design can be found [here](https://www.figma.com/proto/PE6sPsfpy62nlqpMGz9gy6/Hackathon?page-id=0%3A1&node-id=0%3A158&viewport=727%2C429%2C0.23&scaling=scale-down&starting-point-node-id=0%3A12).
 - The landing page below projects the entire cycle of the product line up while we focus on the Twitter version.
 <img src=./images/ui-ux/LandingPage.png alt="drawing" width="720" height="600"/>
-- The Launch App button loads the `tweet NFT` page. Here users can input a tweet url and proceed to either deploy or mint. (Only deployed tweets can be minted and only tweet owners can deploy). Deploy simply means alerting the blockchain  and giving it the permission to mint your tweets.
+
+- The Launch App button loads the `tweetNFT` page. Here users can input a tweet url and proceed to either deploy or mint. (Only deployed tweets can be minted and only tweet owners can deploy). Deploy simply means alerting the blockchain  and giving it the permission to mint your tweets.
 
 ###
 
