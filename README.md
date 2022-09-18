@@ -34,21 +34,21 @@ The [integration test](https://github.com/OWNly-Hackathon-Prpoject/contracts/tre
 5. Some basic metadata about tweet and customized image is stored in IPFS via `NFT.storage` API
 6. URI to this metadata is stored in the blockchain 
 
-<img src=./images/contracts/Tests.png alt="drawing" width="500" height="110"/>
+<img src=./images/contracts/Tests.png alt="drawing" width="720" height="210"/>
 
 ### Deployed Contract
 The contract is fully verified and visible on [Polygonscan](https://mumbai.polygonscan.com/address/0x4c629d4f72fc89cc2ca1650994429bcd91c3d99c). Once tests are performed [here](#tests), you can see some results in polygonscan:
 
-<img src=./images/contracts/FunctionExampleOwnerOf.png alt="drawing" width="650" height="80"/>
+<img src=./images/contracts/FunctionExampleOwnerOf.png alt="drawing" width="800" height="140"/>
 
-<img src=./images/contracts/FunctionExampleTweetId.png alt="drawing" width="650" height="80"/>
+<img src=./images/contracts/FunctionExampleTweetId.png alt="drawing" width="800" height="140"/>
 
-<img src=./images/contracts/FunctionExampleURI.png alt="drawing" width="650" height="80"/>
+<img src=./images/contracts/FunctionExampleURI.png alt="drawing" width="800" height="140"/>
 
 ### Deployed NFTs
 The followers should see minted NFTs on OpenSea thanks to compatible URI and metadata:
 
-<img src=./images/contracts/NFT.png alt="drawing" width="700" height="900"/>
+<img src=./images/contracts/NFT.png alt="drawing" width="850" height="900"/>
 
 
 
