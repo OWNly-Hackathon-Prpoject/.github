@@ -26,10 +26,27 @@ The OWNly project is an own and share NFT Copyright Platform. You can literally 
 <img src=./images/ui-ux/LandingPage.png alt="drawing" width="720" height="600"/>
 
 - The Launch App button loads the `tweetNFT` page. Here users can input a tweet url and proceed to either deploy or mint. (Only deployed tweets can be minted and only tweet owners can deploy). Deploy simply means alerting the blockchain  and giving it the permission to mint your tweets.
+<img src=./images/ui-ux/DeployNFT.png alt="drawing" width="720" height="850"/>
+
+- Other Products highlighting.
+
+<img src=./images/ui-ux/Product.png alt="drawing" width="400" height="1000"/>
 
 ###
 
 ## Frontend
+- The frontend implementation of the UI has not been perfected. The work done shows minimal interaction with backend-smart contracts.
+
+- LandingPage
+<img src=./images/ui-ux/frontend1.png alt="drawing" width="720" height="500"/>
+
+- App page
+
+<img src=./images/ui-ux/DeployNFT.png alt="drawing" width="720" height="500"/>
+
+- App page test
+
+<img src=./images/ui-ux/DeployNFT.png alt="drawing" width="1200" height="600"/>
 
 ###
 
